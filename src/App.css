@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css?family=Srisakdi");
+
+h1 {
+  font-weight: 200;
+  color: green;
+  font-family: "Srisakdi", cursive;
+}
+.heading {
+  font-size: 100px;
+}
+.heading1 {
+  font-family: "Srisakdi", cursive;
+}
+.searchBox {
+  width: 325px;
+  border-radius: 100px !important;
+  font-family: "Srisakdi", cursive;
+}
